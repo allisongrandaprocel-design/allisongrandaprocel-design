@@ -9,7 +9,7 @@
 ---
 
 **📌 Featured projects**
-- [catálogo-de-belleza-melia](link) — single-file online store with WhatsApp checkout integration
+- [catálogo-de-belleza-melia](https://github.com/allisongrandaprocel-design/melia-beauty-catalog) — single-file online store with WhatsApp checkout integration
 - [Calculadora de fitones](link) — Python calculator, first-semester project
 - [Convertidor de unidades de Python](link) — CLI unit converter
 
