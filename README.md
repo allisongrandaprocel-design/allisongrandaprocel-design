@@ -11,8 +11,7 @@
 **📌 Featured projects**
 - [Mélia Beauty Catalog](https://github.com/allisongrandaprocel-design/melia-beauty-catalog) — single-file online store with WhatsApp checkout integration
 - [Python Calculator](https://github.com/allisongrandaprocel-design/phyton-calculator) — Python calculator, first-semester project
-- [Python Unit Converter]([link](https://github.com/allisongrandaprocel-design/Python-Unit-Converter)) — CLI unit converter
-
+- [Python Unit Converter](https://github.com/allisongrandaprocel-design/Python-Unit-Converter) — CLI unit converter
 ---
 
 **🛠 Tools & skills**
